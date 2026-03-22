@@ -1,6 +1,6 @@
 INSERT INTO users (full_name, email, role)
 VALUES
-('Edith Mutai', 'edith@dairyhub.com', 'host'),
+('Edith Mutai', 'edith@freelance.com', 'host'),
 ('Jane Guest', 'jane@traveller.com', 'guest'),
 ('Admin User', 'admin@smartbook.com', 'admin'),
 ('John Host', 'john@listings.com', 'host'),
